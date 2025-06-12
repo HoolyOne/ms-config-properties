@@ -1,1 +1,4 @@
-
+example:
+  property: value
+server:
+  port: 8081
